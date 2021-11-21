@@ -13,7 +13,6 @@
 <p align="center">
   <img alt="Top language" src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python">
   <img alt="Status" src="https://img.shields.io/badge/Status-done-green?style=for-the-badge">
-    <img alt="Repository size" src="https://img.shields.io/github/languages/code-size/KamilGos/lidar-scans-feature-extraction?style=for-the-badge">
 </p>
 
 <!-- table of contents -->
